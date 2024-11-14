@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/undertale-dog-bark_yFV0jzwC.mp3-ed58a3ea08b7f56f346000346a0a9331.mp3str"
+
+[deps]
+
+source_file="res://music/undertale-dog-bark_yFV0jzwC.mp3"
+dest_files=[ "res://.import/undertale-dog-bark_yFV0jzwC.mp3-ed58a3ea08b7f56f346000346a0a9331.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

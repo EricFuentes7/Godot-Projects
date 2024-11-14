@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Cancion de perro molesto.mp3-6fd9917b887f26f5bca417ae247be0d3.mp3str"
+
+[deps]
+
+source_file="res://Cancion de perro molesto.mp3"
+dest_files=[ "res://.import/Cancion de perro molesto.mp3-6fd9917b887f26f5bca417ae247be0d3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

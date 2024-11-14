@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Undertale-OST-Quiet-Water-Extended.ogg-b760b54298bf66df73143ac1c3c49e5a.oggstr"
+
+[deps]
+
+source_file="res://Undertale-OST-Quiet-Water-Extended.ogg"
+dest_files=[ "res://.import/Undertale-OST-Quiet-Water-Extended.ogg-b760b54298bf66df73143ac1c3c49e5a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
